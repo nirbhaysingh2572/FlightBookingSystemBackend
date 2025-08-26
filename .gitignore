@@ -1,3 +1,5 @@
-/flightSearchService/node_module/
-/flightSearchService/.env
+flightSearchService/node_module/
+
+flightSearchService/.env
+
 
